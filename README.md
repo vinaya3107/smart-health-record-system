@@ -45,3 +45,8 @@ JWT token is stored and sent with API requests
 📊 View record history & filters
 
 📷 Real fingerprint scanner (hardware-integration)
+
+🤝 Contributing
+PRs and suggestions welcome!
+Made by Vinaya
+
